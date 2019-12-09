@@ -1,0 +1,29 @@
+﻿빌드 시작: 2019-12-09 오후 1:49:18
+     1>2 노드의 "D:\컴프Final\컴프Final\컴프Final.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt clac.cpp func.cpp main.cpp stack.cpp stn.cpp symbol.cpp
+         symbol.cpp
+     1>symbol.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' 선언을 참조하십시오.
+         stn.cpp
+     1>stn.cpp(38): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' 선언을 참조하십시오.
+         stack.cpp
+         main.cpp
+         func.cpp
+         clac.cpp
+         코드를 생성하고 있습니다...
+     1>d:\컴프final\컴프final\clac.cpp(37): warning C4715: 'operate' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\컴프Final\x64\Debug\컴프Final.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\컴프Final\x64\Debug\컴프Final.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\컴프Final\x64\Debug\컴프Final.lib" /MACHINE:X64 x64\Debug\clac.obj
+         x64\Debug\func.obj
+         x64\Debug\main.obj
+         x64\Debug\stack.obj
+         x64\Debug\stn.obj
+         x64\Debug\symbol.obj
+         컴프Final.vcxproj -> D:\컴프Final\x64\Debug\컴프Final.exe
+     1>"D:\컴프Final\컴프Final\컴프Final.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.18
