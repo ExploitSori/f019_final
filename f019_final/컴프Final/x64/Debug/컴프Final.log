@@ -1,0 +1,21 @@
+﻿  clac.cpp
+  main.cpp
+  stack.cpp
+  stn.cpp
+C:\Users\Bandall\Desktop\해킹왕 권경민조 컴프Final\컴프Final\stn.cpp(49,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+C:\Users\Bandall\Desktop\해킹왕 권경민조 컴프Final\컴프Final\stn.cpp(57,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+C:\Users\Bandall\Desktop\해킹왕 권경민조 컴프Final\컴프Final\stn.cpp(64,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+C:\Users\Bandall\Desktop\해킹왕 권경민조 컴프Final\컴프Final\stn.cpp(75,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  symbol.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
+C:\Users\Bandall\Desktop\해킹왕 권경민조 컴프Final\컴프Final\symbol.cpp(55,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+C:\Users\Bandall\Desktop\해킹왕 권경민조 컴프Final\컴프Final\symbol.cpp(58,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
+C:\Users\Bandall\Desktop\해킹왕 권경민조 컴프Final\컴프Final\clac.cpp(39): warning C4715:  'operate': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  LINK : C:\Users\Bandall\Desktop\해킹왕 권경민조 컴프Final\x64\Debug\컴프Final.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  컴프Final.vcxproj -> C:\Users\Bandall\Desktop\해킹왕 권경민조 컴프Final\x64\Debug\컴프Final.exe
